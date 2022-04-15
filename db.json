@@ -2,7 +2,7 @@
   "posts": [
     {
 	"test": {
-		"volume": 0,
+		"volume": 0
 	},
 	"plan": "1000500-ml"
     }
